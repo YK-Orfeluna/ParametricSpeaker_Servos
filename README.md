@@ -9,7 +9,3 @@ TC102には，このSTL形式のファイルを持っていけば，印刷でき
 拡張子は全て「123dx」です．
 ## old_data
 古いデータです．
-
-### credit
-created by Naoto YOSHIDA<br>
-edited by Yuki KITAGISHI
