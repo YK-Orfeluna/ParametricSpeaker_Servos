@@ -12,20 +12,20 @@ TC102には，このSTL形式のファイルを持っていけば，印刷でき
 古いデータです．
 
 ## print_data
-Curaを使って，3Dプリンタで印刷できるようにデータ形式を変換したものです．<br>
-なお，印刷速度はFast，マテリアルの充填はSolid（フル充填）となっています．
+Curaを使って，3Dプリンタで印刷できるようにデータ形式をSTLからGCODEに変換したものです．<br>
+変換時の設定は，印刷速度はFast，マテリアルの充填はSolid（フル充填）です．
 ### Ultimater_2_Extended+
 "Ultimater 2 Extended+"で印刷する時に使用します．<br>
-所要時間の目安は以下のとおりです．
-* micstand:	1h 45m
-* param:	2h 51m
-* servo_x:	2h 07m
-* servo_y:	1h 04m
-
-### Ultimater_3_Extended
-"Ultimater 3 Extended"で印刷する時に使用します．<br>
 所要時間の目安は以下のとおりです．
 * micstand:	1h 33m
 * param:	2h 26m
 * servo_x:	1h 50m
 * servo_y:	0h 52m
+
+### Ultimater_3_Extended
+"Ultimater 3 Extended"で印刷する時に使用します．<br>
+所要時間の目安は以下のとおりです．
+* micstand:	1h 45m
+* param:	2h 51m
+* servo_x:	2h 07m
+* servo_y:	1h 04m
