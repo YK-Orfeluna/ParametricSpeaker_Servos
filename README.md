@@ -16,6 +16,7 @@ Curaを使って，3Dプリンタで印刷できるようにデータ形式をST
 変換時の設定は，印刷速度はFast，マテリアルの充填はSolid（フル充填）です．
 ### Ultimater_2_Extended+
 "Ultimater 2 Extended+"で印刷する時に使用します．<br>
+印刷はSDカードを本体に差し込んで，そこからデータを読み込んで行います<br>
 所要時間の目安は以下のとおりです．
 * micstand:	1h 33m
 * param:	2h 26m
@@ -24,6 +25,7 @@ Curaを使って，3Dプリンタで印刷できるようにデータ形式をST
 
 ### Ultimater_3_Extended
 "Ultimater 3 Extended"で印刷する時に使用します．<br>
+印刷はUSBメモリを本体に差し込んで，そこからデータを読み込んで行います<br>
 所要時間の目安は以下のとおりです．
 * micstand:	1h 45m
 * param:	2h 51m
