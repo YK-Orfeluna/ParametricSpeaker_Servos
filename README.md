@@ -23,6 +23,7 @@ Curaを使って，3Dプリンタで印刷できるようにデータ形式をST
 "Ultimater 2 Extended+"で印刷する時に使用します．<br>
 印刷はSDカードを本体に差し込んで，そこからデータを読み込んで行います<br>
 所要時間の目安は以下のとおりです．
+
 * micstand:	1h 33m
 * param:	2h 26m
 * servo_x:	1h 50m
@@ -32,6 +33,7 @@ Curaを使って，3Dプリンタで印刷できるようにデータ形式をST
 "Ultimater 3 Extended"で印刷する時に使用します．<br>
 印刷はUSBメモリを本体に差し込んで，そこからデータを読み込んで行います<br>
 所要時間の目安は以下のとおりです．
+
 * micstand:	1h 45m
 * param:	2h 51m
 * servo_x:	2h 07m
