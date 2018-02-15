@@ -6,7 +6,6 @@ TC102には，このSTL形式のファイルを持っていけば，印刷でき
 
 ## [123dx_data](./123dx_data)
 3ds Max用のデータです．<br>
-
 拡張子は全て「123dx」です．
 
 ## [print_data](./print_data)
