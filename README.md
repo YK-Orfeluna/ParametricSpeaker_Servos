@@ -1,4 +1,4 @@
-# ParametricSpeaker_Servos
+﻿# ParametricSpeaker_Servos
 ## 注意点
 全ての3Dプリンタを同時に利用できるわけではありません．<br>
 どの3Dプリンタが稼働中で，どの3Dプリンタを使えるかはわからないので，全ての形式のデータを持っていくことを推奨します．<br>
