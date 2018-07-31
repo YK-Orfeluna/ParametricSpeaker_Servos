@@ -105,36 +105,36 @@ Ultimaterの3Dプリンタで印刷できるように，データ形式を`.stl`
 	* なべ小ネジ（M3×15mm）を4本使う
 	* ネジが入りにくい時は，ドリルなどで穴を拡張する
 
-	<img src="./figure/desc_2-1.JPG" width="400">
+	![](./figure/desc_2-1.JPG)
 
 2. *param*にパラメトリックスピーカの超音波発振子を取り付ける
 	* なべ小ネジ（M3×30mm）を8本使う
 	* 超音波発振子の向きが全て同じになるようにする
 		* 向きが揃わないと，発振子同士が干渉し合って音が消失する
 
-	<img src="./figure/desc_2-2.JPG" width="400">
+	![](./figure/desc_2-2.JPG)
 	
 3. *servo_y*にサーボモータ（y軸用）を取り付ける
 	* さら小ネジ（M4×15mm）を4本使う
 	* 事前にサーボモータの向きをArduinoなどを使って90度に合わせておくと良い
 
-	<img src="./figure/desc_2-3.JPG" width="400">
+	![](./figure/desc_2-3.JPG)
 
 4. サーボモータ（y軸用）に*servo_y*を取り付ける
 	
-	<img src="./figure/desc_2-4.JPG" width="400">
+	![](./figure/desc_2-4.JPG)
 	
 5. サーボモータ（x軸用）に*micstand*を取り付ける
 	* なべ小ネジ（M4×？mm）を4本使う
 
-	<img src="./figure/desc_2-5.JPG" width="400">
+	![](./figure/desc_2-5.JPG)
 	
 5. *servo_x*にサーボモータ（x軸用）を取り付ける
 	
-	<img src="./figure/desc_2-6.JPG" width="400">
+	![](./figure/desc_2-1.JPG)
 
 6. マイクスタンドに取り付ける（完成）
 	* 取り付けるときに回しすぎると，マイクスタンドの雄ねじ部分が*micstand*を**貫通**するので要注意
 	
-	![サンプル写真]()
+	<!-- ![](./figure/desc_2-7.JPG) -->
 	
